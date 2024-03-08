@@ -1,0 +1,5 @@
+﻿Türkiye'nin başkenti neresidir?&Ankara&İstanbul&Trabzon&İzmir&Ankara
+En yağış alan bölgemiz neresidir?&Ege&Marmara&Karadeniz&Akdeniz&Karadeniz
+Çay bitkisinin en çok yetiştirildiği ilimiz hangisidir?&Trabzon&Rize&Samsun&Tokat&Rize
+Milli ekonomimize en çok katkısı olan bölgemiz neresidir?&İç Anadolu&Güneydoğu Anadolu&Karadeniz&Marmara&Marmara
+Türkiye'nin en büyük gölü hangisidir?&Sapanca&Gölcük&Tuz Gölü&Van Gölü&Van Gölü
